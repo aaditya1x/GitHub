@@ -1,0 +1,58 @@
+li{
+    font-weight: 700;
+}
+
+
+.html{
+    color: #e54d26;
+
+}
+.css{
+    color: #9f00e9;
+}
+.javascript{
+    color: #0000ff;
+}
+.react{
+    color: #87ceeb;
+}
+.tailwind{
+    color: rgb(0, 255, 255);
+}
+
+#html {
+    font-size: 32px;
+}
+
+#css {
+    font-size: 32px;
+}
+#javascript{
+    font-size: 34px;
+}
+#react{
+    font-size:  32px;
+
+}
+#tailwind{
+    font-size: 32px;
+}
+[class]{
+    background-color: #b8e526;
+}
+[aaditya]{
+    background-color: #b8e526;
+}
+
+p{
+    background-color: rgb(14, 129, 231);
+}
+h1:hover{
+    color: rgb(255, 255, 0);
+}
+.html:hover{
+    color: aqua;
+}
+p:hover{
+    color: palevioletred;
+}
